@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "898844326925",
+    "firebase_url": "https://dse-kai-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dse-kai",
+    "storage_bucket": "dse-kai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898844326925:android:bab13de654debe6abf6944",
+        "android_client_info": {
+          "package_name": "com.example.dse_kai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDX8vvwGcDKE_orUoQVoeozImUoANvF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898844326925:android:ea51f0c1fa0d1f59bf6944",
+        "android_client_info": {
+          "package_name": "com.example.new_kai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKDX8vvwGcDKE_orUoQVoeozImUoANvF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
